@@ -1,4 +1,4 @@
-Algorithm01 class final assignment
+Algorithm01 class assignment5
 
 ---
 ## MODEL 1 : 3 Layers with 1 Convolution layer
